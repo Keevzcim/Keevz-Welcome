@@ -1,0 +1,32 @@
+{ 
+   "Bot": {
+    "Token": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "MongoURL": "",
+    "Durum": "",
+    "Status": "",
+    "Owners": [""],
+    "Prefix": [""]
+  },
+  
+   "Server": {
+    "GuildID": ""
+  },
+
+   "Roles": {
+    "EnAltYetkiliRolü": ""
+  },
+  
+   "Channels": {
+    "BotVoice": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}
